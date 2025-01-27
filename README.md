@@ -1,2 +1,19 @@
-# GYM-System
-GYm mangement system
+GYM MANAGEMENT SYSTEM IN C#
+
+**Login Details**
+
+USERNAME : ahsan
+PASSWORD : 12345
+
+
+
+- Database needs to be set before using in new pc from 
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+
+THANK YOU FOR DOWNLOADING :) 
